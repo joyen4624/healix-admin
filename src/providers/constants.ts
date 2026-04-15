@@ -1,2 +1,2 @@
-export const API_URL = "https://api.fake-rest.refine.dev";
+export const API_URL = "http://localhost:3000/api/admin";
 export const TOKEN_KEY = "refine-auth";
